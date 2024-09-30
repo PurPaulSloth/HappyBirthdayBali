@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+    font-family: happy monkey, sans-serif;
+    background-image:linear-gradient(#FAC18Bff, rgba(250, 237, 166, 0.863));
+    color:#271D1Cff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift{
+    margin-top: 50px;
+}
+.gift-title{
+    text-decoration: underline rgb(126, 102, 102);
+}
+.giftbox{
+    width: 400px;
+    height: 400px;
+    background-image: url(images/christmas-gift-christmas-gift-clip-art-green-gift-box-with-red-bow-png-picture-removebg-preview.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#gift1:hover{
+    background-image: url(images/2.png);
+
+}
+
+h1{
+    text-shadow: 2px 3px 0 rgb(206, 145, 112);
+    background-color: rgba(196, 147, 121, 0.356);
+    padding: 10px 25px;
+    border-radius: 30px;
+}
+#BdayGirl{
+    border-radius: 250px;
+    width: 350px;;
+    border: solid #271D1Cff 5px;
+}
+
+#bday-date{
+margin: -5px;
+}
+
+#Art{
+    background-image: url(images/BdayGift.webp);
+}
+
+
+
